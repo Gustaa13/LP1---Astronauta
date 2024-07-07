@@ -19,7 +19,7 @@ Este projeto é um sistema simples de gerenciamento de astronautas e voos espaci
 
 - **main.cpp**: Arquivo principal que contém o menu do sistema e o loop de execução.
 - **classes.cpp**: Arquivo que contém as classes e métodos do sistema.
-- **funcs.cpp**: Arquivo que contém funcões secundários para intermediação e auxílio do sistema.
+- **funcs.cpp**: Arquivo que contém funcões secundárias para intermediação e auxílio do sistema.
 - **funcs.hpp**: Arquivo de cabeçalho contendo as declarações das funções utilizadas no sistema.
 
 ## Tecnologias Utilizadas
