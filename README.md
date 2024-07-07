@@ -33,8 +33,8 @@ Para compilar e executar o projeto, siga os seguintes passos:
 
 1. Abra o terminal na pasta do projeto.
 2. Compile o código utilizando o comando:
-   ```sh
+   ```
    g++ main.cpp -o sistema_gestao
 3. Execute o programa:
-   ```sh
+   ```
    ./sistema_gestao
